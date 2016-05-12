@@ -1,0 +1,387 @@
+[
+    {
+        "_id": {
+            "$oid": "000000000000000000000001"
+        },
+        "title": "Prototüüpimine paberil",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-05-11T11:56:04.379Z"
+        },
+        "isOpen": true,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000002"
+        },
+        "title": "Veebilehtede põhjad",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-05-18T11:56:04.385Z"
+        },
+        "isOpen": true,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000003"
+        },
+        "title": "Frustratsiooniliides",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-05-25T11:56:04.385Z"
+        },
+        "isOpen": true,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000004"
+        },
+        "title": "Kassid",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-06-01T11:56:04.385Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000005"
+        },
+        "title": "Nurgelised kassid",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-06-08T11:56:04.385Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000006"
+        },
+        "title": "Süntaktiliselt äge CSS",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-06-15T11:56:04.386Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000007"
+        },
+        "title": "Nurgelised koerad",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-06-22T11:56:04.386Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000008"
+        },
+        "title": "Django Sissejuhatus",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-06-29T11:56:04.387Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000009"
+        },
+        "title": "Django Edasijuhatus",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-07-06T11:56:04.387Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "00000000000000000000000A"
+        },
+        "title": "Kasutajatestid",
+        "description": "Praktikum",
+        "properties": [
+            {
+                "name": "Punktid",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            }
+        ],
+        "due": {
+            "$date": "2016-07-13T11:56:04.387Z"
+        },
+        "isOpen": false,
+        "isGraded": false
+    },
+    {
+        "_id": {
+            "$oid": "00000000000000000000000B"
+        },
+        "title": "Prototüüp 1",
+        "description": "Lorem ipsum dolor sit amet.",
+        "isRequired": "true",
+        "properties": [
+            {
+                "name": "Labori esitamise fakt",
+                "pointsFrom": 0,
+                "pointsTo": 15
+            },
+            {
+                "name": "Mulje",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Ilu",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Mugavus",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Frustratsioon",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Info edastamine",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Navigatsioon",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Hinnete paneku vaade",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Mobiilivaade",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Viimistlus",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            },
+            {
+                "name": "Äge/Üllatav",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            },
+            {
+                "name": "Pluss-miinus",
+                "pointsFrom": -5,
+                "pointsTo": 5
+            },
+            {
+                "name": "Hilinemine",
+                "pointsFrom": -15,
+                "pointsTo": 0
+            }
+        ],
+        "isOpen": false,
+        "isGraded": false,
+        "due": {
+            "$date": "2016-05-12T11:01:05+0000"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "00000000000000000000000C"
+        },
+        "title": "Prototüüp 2",
+        "description": "Lorem ipsum dolor sit amet.",
+        "isRequired": "true",
+        "properties": [
+            {
+                "name": "Labori esitamise fakt",
+                "pointsFrom": 0,
+                "pointsTo": 15
+            },
+            {
+                "name": "Mulje",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Ilu",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Mugavus",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Frustratsioon",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Info edastamine",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Navigatsioon",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Hinnete paneku vaade",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Mobiilivaade",
+                "pointsFrom": 0,
+                "pointsTo": 2
+            },
+            {
+                "name": "Viimistlus",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            },
+            {
+                "name": "Äge/Üllatav",
+                "pointsFrom": 0,
+                "pointsTo": 1
+            },
+            {
+                "name": "Pluss-miinus",
+                "pointsFrom": -5,
+                "pointsTo": 5
+            },
+            {
+                "name": "Hilinemine",
+                "pointsFrom": -15,
+                "pointsTo": 0
+            }
+        ],
+        "isOpen": false,
+        "isGraded": false,
+        "due": {
+            "$date": "2016-05-12T11:01:05+0000"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "00000000000000000000000D"
+        },
+        "title": "Kontrolltöö",
+        "description": "Lorem ipsum dolor sit amet.",
+        "isRequired": "true",
+        "properties": [
+            {
+                "name": "Küsimus 1",
+                "pointsFrom": 0,
+                "pointsTo": 10
+            },
+            {
+                "name": "Küsimus 2",
+                "pointsFrom": 0,
+                "pointsTo": 10
+            },
+            {
+                "name": "Küsimus 3",
+                "pointsFrom": 0,
+                "pointsTo": 10
+            },
+            {
+                "name": "Küsimus 4",
+                "pointsFrom": 0,
+                "pointsTo": 10
+            }
+        ],
+        "isOpen": false,
+        "isGraded": false,
+        "due": {
+            "$date": "2016-05-12T11:01:05+0000"
+        }
+    }
+]

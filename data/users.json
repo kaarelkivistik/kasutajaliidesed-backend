@@ -1,0 +1,66 @@
+[
+    {
+        "_id": {
+            "$oid": "000000000000000000000001"
+        },
+        "name": "jaagup",
+        "password": "jaagup",
+        "teacher": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000002"
+        },
+        "name": "kaarel",
+        "password": "kaarel",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000003"
+        },
+        "name": "rico",
+        "password": "rico",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000004"
+        },
+        "name": "oliver",
+        "password": "oliver",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000005"
+        },
+        "name": "mart",
+        "password": "mart",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000006"
+        },
+        "name": "siim",
+        "password": "siim",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000007"
+        },
+        "name": "maanus",
+        "password": "maanus",
+        "student": true
+    },
+    {
+        "_id": {
+            "$oid": "000000000000000000000008"
+        },
+        "name": "karl",
+        "password": "karl",
+        "student": true
+    }
+]
