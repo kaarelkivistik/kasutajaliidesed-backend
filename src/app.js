@@ -24,6 +24,10 @@ MongoClient.connect(dbUrl).then(result => {
 	submissions = db.collection("submissions");
 	users = db.collection("users");
 	
+	users.ensureIndex("name", {
+		unique: true
+	});
+	
 	submissions.ensureIndex("authorId");
 	submissions.ensureIndex("assignmentId");
 	
@@ -80,6 +84,18 @@ api.get("/students/:studentId/submissions", (req, res) => {
 	}
 });
 
+
+api.post("/users", (req, res) => {
+	const { name, password, student, teacher } = req.body;
+	
+	users.insertOne({
+		name, password, student, teacher
+	}).then(result => {
+		res.send(result.insertedId);
+	}, error => {
+		res.status(500).send(error);
+	});
+});
 
 api.post("/auth", (req, res) => {
 	const { name, password } = req.body;
